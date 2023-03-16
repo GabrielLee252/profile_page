@@ -83,12 +83,29 @@ a{
     height: 20px;
 }
 
-.conection1{
+.topReq{
     background-color: blue;
-    height: 50px;
-    width: 30px;
+    height: 40px;
+    width: 200px;
 }
 
-.conection2{
-
+.connection1{
+    border: solid black;
+    margin: 300px;
+    height: 90px;
+    width: 200px;
 }
+
+.topConnect{
+    background-color: blue;
+    height: 40px;
+    width: 200px;
+}
+
+.connection2{
+    border: solid black;
+    margin: 300px;
+    padding: 90px;
+    width: 200px;
+}
+
