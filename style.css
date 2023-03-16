@@ -59,8 +59,10 @@ a{
 
 .card{
     border: solid black;
-    margin: 200px;
-    height: 290px
+    /* margin-left: 100px;
+    margin-top: 30px; */
+    height: 290px;
+    /* width: 400px; */
 }
 
 .pin{
@@ -79,6 +81,30 @@ a{
 }
 /* ----------------------------------^^^ user card^^^---------------------- */
 
+.container{
+    
+    display: flex;
+    padding: 20px;
+    gap: 60px;
+}
+
+
+
+.col1{
+    flex: 2;
+    
+}
+
+.col2{
+    flex: 1;
+    
+}
+
+.check-r{
+    align-items: end;
+    height: 20px;
+}
+
 .user{
     height: 20px;
 }
@@ -86,26 +112,29 @@ a{
 .topReq{
     background-color: blue;
     height: 40px;
-    width: 200px;
 }
 
 .connection1{
     border: solid black;
-    margin: 300px;
-    height: 90px;
-    width: 200px;
+    height: 110px;
+    margin-bottom: 10px;
+}
+
+.tod{
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+.phil{
+    margin-top: 9px;
+    margin-left: 10px;
 }
 
 .topConnect{
     background-color: blue;
     height: 40px;
-    width: 200px;
 }
 
 .connection2{
     border: solid black;
-    margin: 300px;
-    padding: 90px;
-    width: 200px;
 }
-
