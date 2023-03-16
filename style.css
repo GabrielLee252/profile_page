@@ -38,7 +38,7 @@ a{
 
 .info{
     margin-top: 50px;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .info h1{
@@ -59,7 +59,7 @@ a{
 
 .card{
     border: solid black;
-    margin: 50px;
+    margin: 200px;
     height: 290px
 }
 
@@ -76,4 +76,19 @@ a{
 .settings a{
     color: blue;
     text-decoration: underline;
+}
+/* ----------------------------------^^^ user card^^^---------------------- */
+
+.user{
+    height: 20px;
+}
+
+.conection1{
+    background-color: blue;
+    height: 50px;
+    width: 30px;
+}
+
+.conection2{
+
 }
